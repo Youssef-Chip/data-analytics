@@ -4,3 +4,5 @@ lab1/*
 lab2/*
 !lab2/lab2.R
 .Rproj.user
+lab3/*
+!lab3/lab3.R
