@@ -6,3 +6,6 @@ lab2/*
 .Rproj.user
 lab3/*
 !lab3/lab3.R
+lab4/*
+!lab4/lab4.R
+assign2/*
